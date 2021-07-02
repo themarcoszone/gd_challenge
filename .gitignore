@@ -1,1 +1,7 @@
 venv/
+dist/
+dist.zip
+.idea/
+src/test.csv 
+src/test.py
+test_plot.py
